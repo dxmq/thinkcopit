@@ -5,4 +5,4 @@
 
 #### - 然后修改config配置文件，配置爬取的文件的存放路径
 
-#### - 执行`go run copyer.go http:...`即可下载
+#### - 执行`go run copyer.go http://...`即可下载静态资源
